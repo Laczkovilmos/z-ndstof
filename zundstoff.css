@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #ffff;
     color: #333;
   }
   
@@ -90,7 +90,8 @@ body {
     border-color: rgb(255, 255, 255); 
     color: rgb(255, 255, 255); 
     background-color: transparent;
-    border: solid, 1px;
+    border-style: solid;
+    padding: 15px;
 
   }
 
@@ -126,8 +127,8 @@ body {
     margin-left: 750px;
     margin-right: 150px;
     font-weight: 40;
-    margin-top: -300px;
-    
+    margin-top: -350px;
+    text-align: justify;
    
   }
 
@@ -144,4 +145,241 @@ body {
   border-color: orangered;
   color: orangered;
   background-color: transparent;
+  margin-top: -40px;
+  border-style: solid;
+  padding: 15px;
   }
+
+  #kurse{
+    margin: auto;
+    border: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #bae1ea;
+  }
+
+  .head{
+    text-align: center;
+  }
+
+  .course1{
+    text-align: left;
+    margin: 20px;
+    border: 15px;
+    padding: 10px;
+    width: 300px;
+ 
+  }
+
+  .course2{
+    text-align: left;
+    margin: 20px;
+    border: 15px;
+    padding: 10px;
+    width: 300px;
+    margin: 550px;
+    margin-top: -350px;
+
+  }
+
+  .course3{
+    text-align: left;
+    margin: 20px;
+    border: 15px;
+    padding: 10px;
+    width: 300px;
+    float:inline-end;
+    margin-top: -800px;
+  }
+
+
+  .info2{
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    margin-top: -40px;
+    border-style: solid;
+    padding: 15px;
+    width: 101px;
+    margin-left: 650px;
+    margin-top: -370px;
+  }
+
+
+
+  .idk{
+    color: orangered;
+  }
+
+
+  #trainer{
+    text-align: left;
+    margin-right: 150px;
+    margin: 30px;
+    border: 40px;
+    padding: 30px;
+    margin-left: 750px;
+ 
+  }
+
+
+  .hand{
+    float: left;
+    margin-top: -400px;
+    margin-left: 150px;
+
+  }
+
+
+  .info3{
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    margin-top: 10px;
+    padding: 20px;
+    border-style: solid;
+    margin-left: 140px;
+
+  }
+
+
+#uebungen{
+  margin-top: 150px;
+  border: 50px;
+  padding: 20px;
+  background-color: #bae1ea;
+  margin-bottom: 5px;
+
+}
+  .first{
+    text-align: center;
+    margin: 40px;
+    border: 30px;
+ 
+    
+
+  }
+  .second{
+    margin: 40px;
+    border: 30px;
+    width: 1100px;
+    text-align: center;
+    margin-left: 200px;
+    
+  }
+
+
+
+  .info4{
+    color: orangered;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    border-style: solid;
+    padding: 15px;
+  }
+
+
+
+  .info5{
+    color: orangered;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+
+  }
+
+
+
+  .info6{    
+    color: orangered;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+
+  }
+
+
+  .info7{
+    text-align: center;
+    color: orangered;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+    margin-left: 600px;
+  }
+
+  .elso{
+color: orangered;
+  }
+
+  .masodik{
+color: orangered;
+  }
+  
+  .harmadik{
+    color: orangered;
+  }
+  .divek{
+    display: flex;
+    margin-top: 50px;
+    
+  }
+
+  .training{
+    display: flex;
+  }
+
+  .start{
+    width: 550px;
+    height: 450px;
+    text-align: center;
+    color: white;
+    background-image: url(képek/start.jpg);
+  }
+
+  .info8{
+
+    border-color: white;
+    color: white;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+  }
+
+  .szemelyi{
+    width: 550px;
+    height: 450px;
+    text-align: center;
+    color: white;
+    background-image: url(képek/szemelyi.jpg);
+  }
+  .info9{
+    border-color: white;
+    color: white;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+  }
+  .tartos{
+    width: 550px;
+    height: 450px;
+    text-align: center;
+    color: white;
+    background-image: url(képek/tartos.jpg);
+  }
+
+  .info10{
+    border-color: white;
+    color: white;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+  }
+  
