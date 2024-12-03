@@ -301,6 +301,7 @@ body {
     padding: 15px;
     border-style: solid;
 
+
   }
 
 
@@ -328,8 +329,8 @@ color: orangered;
   }
   .divek{
     display: flex;
-    margin-top: 50px;
-    
+    margin-top: 10px;
+    padding: 90px;
   }
 
   .training{
@@ -337,6 +338,7 @@ color: orangered;
   }
 
   .start{
+    padding: 25px;
     width: 550px;
     height: 450px;
     text-align: center;
@@ -354,6 +356,7 @@ color: orangered;
   }
 
   .szemelyi{
+    padding: 25px;
     width: 550px;
     height: 450px;
     text-align: center;
@@ -368,6 +371,7 @@ color: orangered;
     border-style: solid;
   }
   .tartos{
+    padding: 25px;
     width: 550px;
     height: 450px;
     text-align: center;
@@ -382,4 +386,3 @@ color: orangered;
     padding: 15px;
     border-style: solid;
   }
-  
