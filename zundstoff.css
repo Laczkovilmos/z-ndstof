@@ -214,19 +214,17 @@ body {
 
   #trainer{
     text-align: left;
-    margin-right: 150px;
-    margin: 30px;
-    border: 40px;
-    padding: 30px;
-    margin-left: 750px;
+    padding: 50px;
+    margin-left: 600px;
+    width: 650px;
  
   }
 
 
   .hand{
     float: left;
-    margin-top: -400px;
-    margin-left: 150px;
+    margin-top: -450px;
+    margin-left: 70px;
 
   }
 
@@ -238,7 +236,7 @@ body {
     margin-top: 10px;
     padding: 20px;
     border-style: solid;
-    margin-left: 140px;
+    margin-left: 100px;
 
   }
 
@@ -385,4 +383,110 @@ color: orangered;
     background-color: transparent;
     padding: 15px;
     border-style: solid;
+  }
+ .sulyzo{
+  float: left;
+  margin-left: 70px;
+  margin-top: -400px;
+  height: 250px;
+ }
+
+  .fej{
+    margin-top: -10px;
+  } 
+
+  .mission{
+    margin-top: 30px;
+    margin-left: 650px;
+    float: left;
+    width: 600px;
+
+
+  }
+
+  .info11{
+    text-align: center;
+    color: orangered;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    padding: 15px;
+    border-style: solid;
+    margin-left: 150px;
+    margin-top: 50px;
+  }
+
+
+  .also{
+    background-image: url(képek/header.jpg);
+    margin-top: 550px;
+    color: white;
+    height: 250px;
+    text-align: center;
+    padding: 50px;
+  }
+  .fejresz{
+    text-align: center;
+    font-size: 50px;
+    width: 100%;
+   
+  }
+
+  .kontakt{
+    display: flex;
+    padding: 10px;
+  }
+
+  .kontakt2{
+    font-size: 30px;
+  }
+
+  .kontakt3{
+    font-size: 30px;
+  }
+  .elsoresz{
+    float :left ;
+    margin-left: 30px;
+  }
+
+  .masodikresz{
+    padding: 1px;
+    margin-left: 350px;
+    width: 250px;
+  }
+
+  .meret1{
+    font-size: small;
+  }
+
+  .meret2{
+    font-size: small;
+    margin-left: 350px;
+    margin-top: -15px;
+    width: 250px;
+  }
+
+  .harmadikresz{
+    margin-top: -50px;
+    padding: -50px;
+  }
+  .kontakt4{
+    font-size: 30px;
+    float: right;
+    margin-right: 550px;
+    margin-top: -85px;
+  }
+
+  .facebook{
+    height: 40px;
+    width: 40px;
+    margin-left: 470px;
+    margin-top: -50px;
+  }
+
+  .instagram{
+    height: 40px;
+    width: 40px;
+    margin-left: 100px;
+    margin-top: -50px;
   }
