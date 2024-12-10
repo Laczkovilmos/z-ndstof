@@ -434,54 +434,61 @@ color: orangered;
 
   .kontakt{
     display: flex;
-    padding: 10px;
+    padding: 1px;
+
   }
 
   .kontakt2{
     font-size: 30px;
+    width: 350px;
   }
 
   .kontakt3{
     font-size: 30px;
+    margin-top: -10px;
+    width: 350px;
+    margin-left: -300px;
   }
   .elsoresz{
-    float :left ;
+    float : left ;
     margin-left: 30px;
   }
 
   .masodikresz{
-    padding: 1px;
+    padding: 30px;
     margin-left: 350px;
     width: 250px;
+    margin-bottom: 50px;
   }
 
   .meret1{
     font-size: small;
+    margin-top: -10px;
   }
 
   .meret2{
     font-size: small;
-    margin-left: 350px;
-    margin-top: -15px;
-    width: 250px;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: -300px;
   }
 
   .harmadikresz{
-    margin-top: -50px;
+
     padding: -50px;
   }
   .kontakt4{
     font-size: 30px;
     float: right;
-    margin-right: 550px;
-    margin-top: -85px;
+    margin-right: 400px;
+    width: 350px;
+
   }
 
   .facebook{
     height: 40px;
     width: 40px;
-    margin-left: 470px;
-    margin-top: -50px;
+    margin-left: -800px;
   }
 
   .instagram{
@@ -489,4 +496,26 @@ color: orangered;
     width: 40px;
     margin-left: 100px;
     margin-top: -50px;
+  }
+
+  .logo2{
+    margin-left: 150px;
+    width: 150px;
+    height: 40px;
+    margin-top: 50px;
+  }
+
+  .kepek{
+    margin: 50px;
+    border: 40px;
+    margin-bottom: 50px;
+
+  }
+
+  .alsoresz{
+    color: orangered;
+    background-color: #222;
+    padding: 40px;
+    text-align: center;
+    margin-top: -5px;
   }
