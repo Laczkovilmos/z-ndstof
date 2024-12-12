@@ -241,7 +241,7 @@ body {
   }
 
 
-#uebungen{
+#preise{
   margin-top: 150px;
   border: 50px;
   padding: 20px;
@@ -275,6 +275,8 @@ body {
     background-color: transparent;
     border-style: solid;
     padding: 15px;
+    margin-left: 100px;
+
   }
 
 
@@ -286,6 +288,7 @@ body {
     background-color: transparent;
     padding: 15px;
     border-style: solid;
+    margin-left: 100px;
 
   }
 
@@ -298,7 +301,7 @@ body {
     background-color: transparent;
     padding: 15px;
     border-style: solid;
-
+    margin-left: 100px;
 
   }
 
@@ -331,7 +334,7 @@ color: orangered;
     padding: 90px;
   }
 
-  .training{
+  #uebungen{
     display: flex;
   }
 
@@ -386,20 +389,24 @@ color: orangered;
   }
  .sulyzo{
   float: left;
-  margin-left: 70px;
-  margin-top: -400px;
+  margin-left: 150px;
+  margin-top: 30px;
   height: 250px;
+
  }
 
   .fej{
     margin-top: -10px;
   } 
 
-  .mission{
+  #angebot{
+
     margin-top: 30px;
     margin-left: 650px;
-    float: left;
+    float: right;
     width: 600px;
+    margin: 50px;
+    border: 40px;
 
 
   }
@@ -432,7 +439,7 @@ color: orangered;
    
   }
 
-  .kontakt{
+  #kontakt{
     display: flex;
     padding: 1px;
 
@@ -489,6 +496,7 @@ color: orangered;
     height: 40px;
     width: 40px;
     margin-left: -800px;
+    margin-right: 1px;
   }
 
   .instagram{
@@ -503,6 +511,7 @@ color: orangered;
     width: 150px;
     height: 40px;
     margin-top: 50px;
+    margin-right:50px;
   }
 
   .kepek{
