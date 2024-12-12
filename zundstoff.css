@@ -1,3 +1,6 @@
+ 
+ @media screen and (max-width: 1500px){
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -389,7 +392,7 @@ color: orangered;
   }
  .sulyzo{
   float: left;
-  margin-left: 150px;
+  margin-left: 70px;
   margin-top: 30px;
   height: 250px;
 
@@ -528,3 +531,544 @@ color: orangered;
     text-align: center;
     margin-top: -5px;
   }
+}
+
+@media screen and (min-width: 1020px){
+
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #ffff;
+      color: #333;
+    }
+    
+    header {
+    
+      background: white;
+      color: #fff;
+      padding: 1rem 0;
+      text-align: center;
+      height: 55px;
+      color: orangered;
+      width: 100%;
+    }
+    
+    nav ul {
+      list-style: none;
+      padding: 0;
+    }
+    
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+  
+    }
+    
+    nav ul li a {
+      color: orangered;
+      text-decoration: none;
+      margin-right: 1px;
+    }
+    
+    section {
+      padding: 2rem;
+      margin: 2rem auto;
+      background: white;
+      max-width: 800px;
+      box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+    }
+  
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #222;
+      color: white;
+    }
+    
+    .course {
+      margin-bottom: 1.5rem;
+    }
+    
+    .course h3 {
+      margin-bottom: 0.5rem;
+    }
+    
+    a {
+      color: #0066cc;
+    }
+    
+  
+    #home{
+      background-image: url(képek/header.jpg);
+      float: none;
+      color: white;
+      text-align: center;
+      height: 550px;
+      width: 100%;
+      padding: 50px;
+      
+  
+   
+      
+    }
+  
+    .word{
+      text-align: center;
+      margin-left: 350px;
+      margin-right: 450px;
+      font-size: 24px;
+    }
+  
+    .intro{
+  
+      color: white;
+      border-color: rgb(255, 255, 255); 
+      color: rgb(255, 255, 255); 
+      background-color: transparent;
+      border-style: solid;
+      padding: 15px;
+  
+    }
+  
+    .logo{
+      width: 150px;
+      height: 100px;
+      float: left;
+      margin-left: 250px;
+      margin-top: -10px;
+    }
+  
+  
+    .bottom{
+      size: 12px;
+    }
+  
+    .diebox{
+      width: 100%;
+      height: 450px;
+      background-color: white;
+      text-align: center;
+      padding: 50px;
+  
+  
+    }
+  
+    .die{
+      margin-left: 170px;
+    }
+  
+    .words{
+      float: left;
+      margin-left: 750px;
+      margin-right: 150px;
+      font-weight: 40;
+      margin-top: -350px;
+      text-align: justify;
+     
+    }
+  
+    .video{
+      float: left;
+      width: 670px;
+      height: 350px;
+    }
+  
+    .mehrerfahren{
+    float: right;
+    margin-right: 350px;
+    border: solid, 1px;
+    border-color: orangered;
+    color: orangered;
+    background-color: transparent;
+    margin-top: -40px;
+    border-style: solid;
+    padding: 15px;
+    }
+  
+    #kurse{
+      margin: auto;
+      border: 40px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      background-color: #bae1ea;
+    }
+  
+    .head{
+      text-align: center;
+    }
+  
+    .course1{
+      text-align: left;
+      margin: 20px;
+      border: 15px;
+      padding: 10px;
+      width: 300px;
+   
+    }
+  
+    .course2{
+      text-align: left;
+      margin: 20px;
+      border: 15px;
+      padding: 10px;
+      width: 300px;
+      margin: 550px;
+      margin-top: -350px;
+  
+    }
+  
+    .course3{
+      text-align: left;
+      margin: 20px;
+      border: 15px;
+      padding: 10px;
+      width: 300px;
+      float:inline-end;
+      margin-top: -800px;
+    }
+  
+  
+    .info2{
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      margin-top: -40px;
+      border-style: solid;
+      padding: 15px;
+      width: 101px;
+      margin-left: 650px;
+      margin-top: -370px;
+    }
+  
+  
+  
+    .idk{
+      color: orangered;
+    }
+  
+  
+    #trainer{
+      text-align: left;
+      padding: 50px;
+      margin-left: 600px;
+      width: 650px;
+   
+    }
+  
+  
+    .hand{
+      float: left;
+      margin-top: -450px;
+      margin-left: 70px;
+  
+    }
+  
+  
+    .info3{
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      margin-top: 10px;
+      padding: 20px;
+      border-style: solid;
+      margin-left: 100px;
+  
+    }
+  
+  
+  #preise{
+    margin-top: 150px;
+    border: 50px;
+    padding: 20px;
+    background-color: #bae1ea;
+    margin-bottom: 5px;
+  
+  }
+    .first{
+      text-align: center;
+      margin: 40px;
+      border: 30px;
+   
+      
+  
+    }
+    .second{
+      margin: 40px;
+      border: 30px;
+      width: 1100px;
+      text-align: center;
+      margin-left: 200px;
+      
+    }
+  
+  
+  
+    .info4{
+      color: orangered;
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      border-style: solid;
+      padding: 15px;
+      margin-left: 100px;
+  
+    }
+  
+  
+  
+    .info5{
+      color: orangered;
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+      margin-left: 100px;
+  
+    }
+  
+  
+  
+    .info6{    
+      color: orangered;
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+      margin-left: 100px;
+  
+    }
+  
+  
+    .info7{
+      text-align: center;
+      color: orangered;
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+      margin-left: 600px;
+    }
+  
+    .elso{
+  color: orangered;
+    }
+  
+    .masodik{
+  color: orangered;
+    }
+    
+    .harmadik{
+      color: orangered;
+    }
+    .divek{
+      display: flex;
+      margin-top: 10px;
+      padding: 90px;
+    }
+  
+    #uebungen{
+      display: flex;
+    }
+  
+    .start{
+      padding: 25px;
+      width: 550px;
+      height: 450px;
+      text-align: center;
+      color: white;
+      background-image: url(képek/start.jpg);
+    }
+  
+    .info8{
+  
+      border-color: white;
+      color: white;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+    }
+  
+    .szemelyi{
+      padding: 25px;
+      width: 550px;
+      height: 450px;
+      text-align: center;
+      color: white;
+      background-image: url(képek/szemelyi.jpg);
+    }
+    .info9{
+      border-color: white;
+      color: white;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+    }
+    .tartos{
+      padding: 25px;
+      width: 550px;
+      height: 450px;
+      text-align: center;
+      color: white;
+      background-image: url(képek/tartos.jpg);
+    }
+  
+    .info10{
+      border-color: white;
+      color: white;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+    }
+   .sulyzo{
+    float: left;
+    margin-left: 70px;
+    margin-top: 30px;
+    height: 250px;
+  
+   }
+  
+    .fej{
+      margin-top: -10px;
+    } 
+  
+    #angebot{
+  
+      margin-top: 30px;
+      margin-left: 650px;
+      float: right;
+      width: 600px;
+      margin: 50px;
+      border: 40px;
+  
+  
+    }
+  
+    .info11{
+      text-align: center;
+      color: orangered;
+      border-color: orangered;
+      color: orangered;
+      background-color: transparent;
+      padding: 15px;
+      border-style: solid;
+      margin-left: 150px;
+      margin-top: 50px;
+    }
+  
+  
+    .also{
+      background-image: url(képek/header.jpg);
+      margin-top: 550px;
+      color: white;
+      height: 250px;
+      text-align: center;
+      padding: 50px;
+    }
+    .fejresz{
+      text-align: center;
+      font-size: 50px;
+      width: 100%;
+     
+    }
+  
+    #kontakt{
+      display: flex;
+      padding: 1px;
+  
+    }
+  
+    .kontakt2{
+      font-size: 30px;
+      width: 350px;
+    }
+  
+    .kontakt3{
+      font-size: 30px;
+      margin-top: -10px;
+      width: 350px;
+      margin-left: -300px;
+    }
+    .elsoresz{
+      float : left ;
+      margin-left: 30px;
+    }
+  
+    .masodikresz{
+      padding: 30px;
+      margin-left: 350px;
+      width: 250px;
+      margin-bottom: 50px;
+    }
+  
+    .meret1{
+      font-size: small;
+      margin-top: -10px;
+    }
+  
+    .meret2{
+      font-size: small;
+      width: 350px;
+      margin-top: -10px;
+      margin-left: -300px;
+    }
+  
+    .harmadikresz{
+  
+      padding: -50px;
+    }
+    .kontakt4{
+      font-size: 30px;
+      float: right;
+      margin-right: 400px;
+      width: 350px;
+  
+    }
+  
+    .facebook{
+      height: 40px;
+      width: 40px;
+      margin-left: -800px;
+      margin-right: 1px;
+    }
+  
+    .instagram{
+      height: 40px;
+      width: 40px;
+      margin-left: 100px;
+      margin-top: -50px;
+    }
+  
+    .logo2{
+      margin-left: 150px;
+      width: 150px;
+      height: 40px;
+      margin-top: 50px;
+      margin-right:50px;
+    }
+  
+    .kepek{
+      margin: 50px;
+      border: 40px;
+      margin-bottom: 50px;
+  
+    }
+  
+    .alsoresz{
+      color: orangered;
+      background-color: #222;
+      padding: 40px;
+      text-align: center;
+      margin-top: -5px;
+    }
+  }
+  
+  
+  
+  
+
+
